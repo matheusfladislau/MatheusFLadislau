@@ -1,7 +1,6 @@
 
 <div style="display: inline-block;" align="center">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=MatheusFLadislau&theme=dark"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFLadislau&theme=dark&layout=compact">
 </div>
 
 ##
