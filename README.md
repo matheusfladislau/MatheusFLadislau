@@ -1,4 +1,4 @@
-<div align="cente">
+<div align="center">
   <img style="height: 400px; width: auto" src="https://github.com/MatheusFLadislau/IMG-Readme/blob/main/IMG.png">
 </div>
 
