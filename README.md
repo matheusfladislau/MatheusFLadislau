@@ -9,7 +9,7 @@
 </div>
 
 ## :computer: Languages and tools:
-###### BACKEND:
+###### BACK-END:
 <div>
   <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/C.png" />  
   <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/C%23.png" />
@@ -66,14 +66,14 @@
   <a href="https://api.whatsapp.com/send/?phone=13988283989&text&type=phone_number&app_absent=0">
   <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/WPP.png" />
   </a>
+    
+  <a href="https://www.linkedin.com/in/matheus-ferreira-ladislau-a9351a233/">
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/LINKEDIN.png" />
+  </a>
 </div>
 
 ## :fist_right::fist_left: Social medias!
 <div>
-  <a href="https://www.linkedin.com/in/matheus-ferreira-ladislau-a9351a233/">
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/LINKEDIN.png" />
-  </a>
-  
   <a href="https://twitter.com/mathusLADISLAU">
   <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/TWITTER.png" />
   </a>
