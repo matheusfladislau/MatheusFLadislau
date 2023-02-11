@@ -1,6 +1,8 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+<body>
+
 <div align="center">
   <kbd>
     <img style="height: 350px; width: auto;" src="https://github.com/matheusfladislau/IMG-Readme/blob/main/IMG.png">
@@ -21,3 +23,4 @@ LINGUAGENS QUE UTILIZO:
 <div align="center"> 
   <img src="https://github.com/MatheusFLadislau/Snake/blob/output/github-contribution-grid-snake.svg">
 </div>
+</body>
