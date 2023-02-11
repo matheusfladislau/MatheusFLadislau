@@ -1,5 +1,7 @@
 <div align="center">
-  <img style="height: 350px; width: auto; border-radius: 5px" src="https://github.com/matheusfladislau/IMG-Readme/blob/main/IMG.png">
+  <kbd>
+    <img style="height: 350px; width: auto;" src="https://github.com/matheusfladislau/IMG-Readme/blob/main/IMG.png">
+  </kbd>
 </div>
 
 
