@@ -1,6 +1,7 @@
 <div align="center">
-  <img style="height: 400px; width: auto" src="https://github.com/MatheusFLadislau/IMG-Readme/blob/main/IMG.png">
+  <img style="height: 400px; width: auto" src="https://github.com/matheusfladislau/IMG-Readme/blob/main/IMG%20(1).png">
 </div>
+
 
 <div style="display: flex; flex-direction: row;">
   <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
