@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="height: 350px; width: auto" src="https://github.com/matheusfladislau/IMG-Readme/blob/main/IMG.png">
+  <img style="height: 350px; width: auto; border-radius: 10%" src="https://github.com/matheusfladislau/IMG-Readme/blob/main/IMG.png">
 </div>
 
 
