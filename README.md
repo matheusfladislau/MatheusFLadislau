@@ -5,8 +5,6 @@
     <img style="height: 350px; width: auto;" src="https://github.com/matheusfladislau/IMG-Readme/blob/main/IMG.png">
   </kbd>
 </div>
-
-LINGUAGENS QUE UTILIZO:
 <div style="display: flex; flex-direction: row;">
   
   
