@@ -41,7 +41,7 @@
   <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/PS.png" />  
 </div>
 
-## :notebook_with_decorative_cover: Current planning on studying:
+## :notebook_with_decorative_cover: Currently planning on studying:
 <div>
   <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/NODEJS.png" />
   <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/REACT.png"</div>
