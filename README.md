@@ -11,7 +11,7 @@ LINGUAGENS QUE UTILIZO:
   <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   
-  [![TESTE](https://skillicons.dev/icons?i=cs,c,js,html,sqlfigma&theme=light)](https://skillicons.dev)
+  [![TESTE](https://skillicons.dev/icons?i=cs,c,js,html,figma&theme=light)](https://skillicons.dev)
 </div>
 
 <div align="center"> 
