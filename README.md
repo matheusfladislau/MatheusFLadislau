@@ -9,10 +9,11 @@ LINGUAGENS QUE UTILIZO:
   
   <kbd>
   <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-  </kbd>
+ 
   <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+     </kbd>
 </div>
 
 <div align="center"> 
