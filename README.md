@@ -2,7 +2,6 @@
 <h2 align="left"> :wave: Hey, there! Welcome to my GitHub profile! I'm Matheus, a fullstack developer from Brasil.</h2>
 <h3 align="left"> > Currently an intern at <a href="http://www.mbmsystems.com.br">MBM Systems.</a></h3> 
 <h3 align="left"> > Studying software analysis and fevelopment at <a href="https://fatecrl.edu.br">FATEC Rubens Lara</a></h3>
-<h4 align="left"> > Fun fact: I started studying programming since a virus opened my CMD for the first time when I was 12 years old. :laughing:</h4>
 
 <div>
     <img src="https://img.shields.io/github/watchers/matheusfladislau/MatheusFLadislau?color=black&logo=github&style=for-the-badge" />
@@ -58,26 +57,17 @@
 </div>
 
 
-## :fist_right::fist_left: Social medias!
+## :pencil: Contact info:
 <div>
-  <a href="https://www.linkedin.com/in/matheus-ferreira-ladislau-a9351a233/">
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/LINKEDIN.png" />
+  <a href="mailto:matheusladislaudesenv/">
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/GMAIL.png" />
   </a>
   
-  <a href="https://twitter.com/mathusLADISLAU">
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/TWITTER.png" />
-  </a>
-  
-  <a href="https://open.spotify.com/user/srg0icm3qauaurtdoq426g89d?si=139aeee947ac4acf">
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/SPOTIFY.png" />
-  </a>
-  
-  <a href="https://steamcommunity.com/id/mathus01/">
-    <img style="height: 50px;" src"" />
+  <a href="https://api.whatsapp.com/send/?phone=13988283989&text&type=phone_number&app_absent=0">
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/WPP.png" />
   </a>
 </div>
 
-
 ## :fist_right::fist_left: Social medias!
 <div>
   <a href="https://www.linkedin.com/in/matheus-ferreira-ladislau-a9351a233/">
@@ -93,7 +83,7 @@
   </a>
   
   <a href="https://steamcommunity.com/id/mathus01/">
-    <img style="height: 50px;" src"https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/STEAM.png" />
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/STEAM.png" />
   </a>
 </div>
 
