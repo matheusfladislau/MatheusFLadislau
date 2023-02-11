@@ -59,7 +59,7 @@
 
 ## :pencil: Contact info:
 <div>
-  <a href="mailto:matheusladislaudesenv/">
+  <a href="mailto:matheus.ladislaudesenv@gmail.com">
     <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/GMAIL.png" />
   </a>
   
