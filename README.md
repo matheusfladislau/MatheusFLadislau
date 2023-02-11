@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <img style="height: 350px; width: auto;" src="https://github.com/matheusfladislau/IMG-Readme/blob/main/IMG.png">
+    <img style="height: 350px; width: auto;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/IMG.png">
 </div>
 <div style="display: flex; flex-direction: row;">
   
