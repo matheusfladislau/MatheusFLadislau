@@ -1,7 +1,7 @@
 <img align="right" style="height: 350px; width: auto;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/banner/IMG.png">
 <h2 align="left"> :wave: Hey, there! Welcome to my GitHub profile! I'm Matheus, a fullstack developer from Brasil.</h2>
 <h3 align="left"> > Currently an intern at <a href="http://www.mbmsystems.com.br">MBM Systems.</a></h3> 
-<h3 align="left"> > Studying software analysis and fevelopment at <a href="https://fatecrl.edu.br">FATEC Rubens Lara</a></h3>
+<h3 align="left"> > Studying software analysis and development at <a href="https://fatecrl.edu.br">FATEC Rubens Lara.</a></h3>
 
 <div>
     <img src="https://img.shields.io/github/watchers/matheusfladislau/MatheusFLadislau?color=black&logo=github&style=for-the-badge" />
