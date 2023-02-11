@@ -1,3 +1,6 @@
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <div align="center">
   <kbd>
     <img style="height: 350px; width: auto;" src="https://github.com/matheusfladislau/IMG-Readme/blob/main/IMG.png">
