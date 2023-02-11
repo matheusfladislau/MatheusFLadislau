@@ -1,18 +1,100 @@
+<img align="right" style="height: 350px; width: auto;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/banner/IMG.png">
+<h2 align="left"> :wave: Hey, there! Welcome to my GitHub profile! I'm Matheus, a fullstack developer from Brasil.</h2>
+<h3 align="left"> > Currently an intern at <a href="http://www.mbmsystems.com.br">MBM Systems.</a></h3> 
+<h3 align="left"> > Studying software analysis and fevelopment at <a href="https://fatecrl.edu.br">FATEC Rubens Lara</a></h3>
+<h4 align="left"> > Fun fact: I started studying programming since a virus opened my CMD for the first time when I was 12 years old. :laughing:</h4>
 
-
-<div align="center">
-    <img style="height: 350px; width: auto;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/IMG.png">
-</div>
-<div style="display: flex; flex-direction: row;">
-  
-  
-  <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />
-          
-  <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img style="height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<div>
+    <img src="https://img.shields.io/github/watchers/matheusfladislau/MatheusFLadislau?color=black&logo=github&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/matheusfladislau?color=white&logo=github&style=for-the-badge"/>
 </div>
 
+## :computer: Languages and tools:
+###### BACKEND:
+<div>
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/C.png" />  
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/C%23.png" />
+</div>
+
+###### FRONT-END:
+<div>
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/HTML5.png" />  
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/CSS3.png" />
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/JS.png" />
+</div>
+
+###### FRAMEWORKS:
+<div>
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/BOOTSTRAP.png" />  
+</div>
+
+###### DATABASE:
+<div>
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/SQL.png" />  
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/SQL_SERVER.png" />  
+</div>
+
+###### TOOLS:
+<div>
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/FIGMA.png" />  
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/VS_CODE.png" />  
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/VS_STUDIO.png" />  
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/PS.png" />  
+</div>
+
+## :notebook_with_decorative_cover: Current planning on studying:
+<div>
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/NODEJS.png" />
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/REACT.png"</div>
+</div>
+
+
+## :mag_right: About my Github:
 <div align="center"> 
-  <img src="https://github.com/MatheusFLadislau/Snake/blob/output/github-contribution-grid-snake.svg">
+<kbd>
+    <img src="https://github-readme-stats.vercel.app/api?username=matheusfladislau&show_icons=true&theme=radical" />
+    <img src="https://github.com/MatheusFLadislau/Snake/blob/output/github-contribution-grid-snake.svg">
+</kbd>
 </div>
+
+
+## :fist_right::fist_left: Social medias!
+<div>
+  <a href="https://www.linkedin.com/in/matheus-ferreira-ladislau-a9351a233/">
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/LINKEDIN.png" />
+  </a>
+  
+  <a href="https://twitter.com/mathusLADISLAU">
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/TWITTER.png" />
+  </a>
+  
+  <a href="https://open.spotify.com/user/srg0icm3qauaurtdoq426g89d?si=139aeee947ac4acf">
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/SPOTIFY.png" />
+  </a>
+  
+  <a href="https://steamcommunity.com/id/mathus01/">
+    <img style="height: 50px;" src"" />
+  </a>
+</div>
+
+
+## :fist_right::fist_left: Social medias!
+<div>
+  <a href="https://www.linkedin.com/in/matheus-ferreira-ladislau-a9351a233/">
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/LINKEDIN.png" />
+  </a>
+  
+  <a href="https://twitter.com/mathusLADISLAU">
+  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/TWITTER.png" />
+  </a>
+  
+  <a href="https://open.spotify.com/user/srg0icm3qauaurtdoq426g89d?si=139aeee947ac4acf">
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/SPOTIFY.png" />
+  </a>
+  
+  <a href="https://steamcommunity.com/id/mathus01/">
+    <img style="height: 50px;" src"https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/STEAM.png" />
+  </a>
+</div>
+
+# :checkered_flag:
