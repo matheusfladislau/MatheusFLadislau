@@ -82,9 +82,9 @@
     <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/SPOTIFY.png" />
   </a>
   
-  <a href="https://steamcommunity.com/id/mathus01/">
+  <!--<a href="https://steamcommunity.com/id/mathus01/">
     <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/STEAM.png" />
-  </a>
+  </a>-->
 </div>
 
 # :checkered_flag:
