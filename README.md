@@ -14,57 +14,62 @@
 ## :computer: Languages and tools:
 ###### BACK-END:
 <div>
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/C.png" />  
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/C%23.png" />
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/C.png" />  
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/C%23.png" />
 </div>
 
 ###### FRONT-END:
 <div>
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/HTML5.png" />  
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/CSS3.png" />
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/JS.png" />
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/HTML5.png" />  
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/CSS3.png" />
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/JS.png" />
 </div>
 
-###### FRAMEWORKS:
+###### LIBRARIES:
 <div>
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/BOOTSTRAP.png" />  
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/BOOTSTRAP.png" />  
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/JQUERY.png" />  
 </div>
 
 ###### DATABASE:
 <div>
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/SQL.png" />  
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/SQL_SERVER.png" />  
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/SQL.png" />  
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/SQL_SERVER.png" />  
 </div>
 
 ###### TOOLS:
 <div>
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/FIGMA.png" />  
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/VS_CODE.png" />  
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/VS_STUDIO.png" />  
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/PS.png" />  
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/FIGMA.png" />  
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/VS_CODE.png" />  
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/VS_STUDIO.png" />  
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/PS.png" />  
 </div>
 
 ## :notebook_with_decorative_cover: Currently planning on studying:
 <div>
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/NODEJS.png" />
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/REACT.png"</div>
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/NODEJS.png" />
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/REACT.png"</div>
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/UNITY.png"</div>
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/GODOT.png"</div>
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/MAUI.png"</div>
 </div>
 
 
-## :mag_right: About my Github:
+## :mag_right: My GitHub stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=matheusfladislau&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfladislau&theme=radical&hide_progress=true" />
     <img src="https://github.com/MatheusFLadislau/Snake/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-## :pencil: Contact info:
+## :pencil: Contact me:
 <div>
   <a href="mailto:matheus.ladislaudesenv@gmail.com">
     <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/GMAIL.png" />
   </a>
   
   <a href="https://api.whatsapp.com/send/?phone=13988283989&text&type=phone_number&app_absent=0">
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/WPP.png" />
+    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/WPP.png" />
   </a>
     
   <a href="https://www.linkedin.com/in/matheus-ferreira-ladislau-a9351a233/">
@@ -72,19 +77,19 @@
   </a>
 </div>
 
-## :fist_right::fist_left: Social medias!
+## :yo_yo: Social medias!
 <div>
   <a href="https://twitter.com/mathusLADISLAU">
-  <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/TWITTER.png" />
+      <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/TWITTER.png" />
   </a>
   
   <a href="https://open.spotify.com/user/srg0icm3qauaurtdoq426g89d?si=139aeee947ac4acf">
     <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/SPOTIFY.png" />
   </a>
   
-  <!--<a href="https://steamcommunity.com/id/mathus01/">
+  <a href="https://steamcommunity.com/id/mathus01/">
     <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/STEAM.png" />
-  </a>-->
+  </a>
 </div>
 
 # :checkered_flag:
