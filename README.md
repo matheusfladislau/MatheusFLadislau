@@ -1,67 +1,16 @@
+<p align="center"><img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNqMGl4Z2p0Y2NzcGFtMXh1ejNvbnAxaTdpcmZzaTFwaW9ycHRzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbaUtl1DcLyrdwhzGJ/giphy.webp"></p>
 
-<div align="center">
-    <img src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/banner/Banner.png">
-    <h5>Try changing your bg color :smile:</h5>
-</div>
-<h3 align="left"> > Currently a junior .NET developer at <a href="http://www.mbmsystems.com.br">MBM Systems.</a></h3> 
-<h3 align="left"> > Studying software analysis and development at <a href="https://fatecrl.edu.br">FATEC Rubens Lara.</a></h3>
+Currently...
+ - 💼 Working as a junior .NET developer at [MBM Systems](http://www.mbmsystems.com.br);
+ - 📖 Studying software analysis and development at [Fatec Rubens Lara](https://fatecrl.edu.br);
+ - 📝 Interested in learning more about **C**, **.NET**, **x86 ASM**, **DSA**, **DevOps**, **GNU/Linux**, **Lua** and **Dockers**;
+ - 📚 Reading [K&R](https://en.wikipedia.org/wiki/The_C_Programming_Language)!
 
-## :computer: Languages and tools:
-###### BACK-END:
-<div>
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/C.png" />  
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/C%23.png" />
-</div>
+###### STACK:
+[![Stack](https://skillicons.dev/icons?i=c,cs,dotnet,html,css,js,ts,bootstrap,jquery,mysql,react,nodejs,windows,visualstudio,arch,vim,neovim,bash,git,github,azure,postman,figma&theme=light)]()
+<p>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liblogo.com%2Fimg-logo%2Fsq6364s5cc-sql-server-logo-sql-server-free-logo-icons.png&f=1&nofb=1&ipt=656f79b7ba08cd7e16b577e5a62430a596d54a585a942326f7bc0da9cd6e732e&ipo=images" style="height: 50px">
+</p>
 
-###### FRONT-END:
-<div>
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/HTML5.png" />  
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/CSS3.png" />
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/JS.png" />
-</div>
-
-###### LIBRARIES:
-<div>
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/BOOTSTRAP.png" />  
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/JQUERY.png" />  
-</div>
-
-###### DATABASE:
-<div>
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/SQL.png" />  
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/SQL_SERVER.png" />  
-</div>
-
-###### TOOLS:
-<div>
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/FIGMA.png" />  
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/VS_CODE.png" />  
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/VS_STUDIO.png" />  
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/PS.png" />  
-</div>
-
-## :notebook_with_decorative_cover: Currently planning on studying:
-<div>
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/NODEJS.png" />
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/REACT.png"</div>
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/UNITY.png"</div>
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/GODOT.png"</div>
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/MAUI.png"</div>
-</div>
-
-## :pencil: Contact me:
-<div>
-  <a href="mailto:matheus.ladislaudesenv@gmail.com">
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/GMAIL.png" />
-  </a>
-  
-  <a href="https://api.whatsapp.com/send/?phone=13988283989&text&type=phone_number&app_absent=0">
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/WPP.png" />
-  </a>
-    
-  <a href="https://www.linkedin.com/in/matheus-ferreira-ladislau-a9351a233/">
-    <img style="height: 50px;" src="https://github.com/matheusfladislau/MatheusFLadislau/blob/main/images/icons/LINKEDIN.png" />
-  </a>
-</div>
-
-# :checkered_flag:
+###### CONTACT-ME:
+[![GMAIL](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:matheus.ladislaudesenv@gmail.com) [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/matheus-ferreira-ladislau-a9351a233/) [![LINKEDIN](https://skillicons.dev/icons?i=wpp)](https://www.linkedin.com/in/matheus-ferreira-ladislau-a9351a233/)
