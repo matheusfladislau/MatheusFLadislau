@@ -2,7 +2,6 @@
 
 Currently...
  - 💼 Working as a junior .NET developer at [MBM Systems](http://www.mbmsystems.com.br);
- - 📖 Studying software analysis and development at [Fatec Rubens Lara](https://fatecrl.edu.br);
  - 📝 Interested in learning more about **C**, **.NET**, **x86 ASM**, **DSA**, **DevOps**, **GNU/Linux**, **Lua** and **Dockers**;
  - 📚 Reading [K&R](https://en.wikipedia.org/wiki/The_C_Programming_Language)!
 
