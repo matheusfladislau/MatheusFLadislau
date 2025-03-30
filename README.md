@@ -6,7 +6,7 @@ Currently...
  - 📚 Reading [K&R](https://en.wikipedia.org/wiki/The_C_Programming_Language)!
 
 ###### STACK:
-[![Stack](https://skillicons.dev/icons?i=c,cs,dotnet,html,css,js,ts,bootstrap,jquery,mysql,react,nodejs,windows,visualstudio,arch,vim,neovim,bash,git,github,azure,postman,figma&theme=light)]()
+[![Stack](https://skillicons.dev/icons?i=c,cs,dotnet,html,css,js,,bootstrap,jquery,mysql,react,nodejs,windows,visualstudio,arch,ubuntu,vim,neovim,bash,git,github,azure,postman,figma&theme=light)]()
 <p>
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liblogo.com%2Fimg-logo%2Fsq6364s5cc-sql-server-logo-sql-server-free-logo-icons.png&f=1&nofb=1&ipt=656f79b7ba08cd7e16b577e5a62430a596d54a585a942326f7bc0da9cd6e732e&ipo=images" style="height: 50px">
 </p>
