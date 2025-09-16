@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNqMGl4Z2p0Y2NzcGFtMXh1ejNvbnAxaTdpcmZzaTFwaW9ycHRzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbaUtl1DcLyrdwhzGJ/giphy.webp"></p>
 
 Currently...
- - 💼 Working as a junior .NET developer at [MBM Systems](http://www.mbmsystems.com.br);
+ - 💼 Working as a junior .NET developer at [BuildIt Solutions](https://www.buildit.com.br/);
  - 📝 Interested in learning more about **C**, **.NET**, **x86 ASM**, **DSA**, **DevOps**, **GNU/Linux**, **Lua** and **Dockers**;
  - 📚 Reading [K&R](https://en.wikipedia.org/wiki/The_C_Programming_Language)!
 
